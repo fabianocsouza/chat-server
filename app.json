@@ -1,8 +1,8 @@
 {
   "name": "Socket-Chat-Server",
   "description": "my first socket.io app",
-  "website": "https://github.com/socketio/chat-example",
-  "repository": "https://github.com/socketio/chat-example",
+  "website": "https://github.com/fabianocsouza/chat-server",
+  "repository": "https://github.com/fabianocsouza/chat-server",
   "logo": "https://node-js-sample.herokuapp.com/node.svg",
   "success_url": "/",
   "keywords": [
